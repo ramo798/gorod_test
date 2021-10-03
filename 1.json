@@ -1,0 +1,121 @@
+{
+  "card_list": [
+    { "name": "スイクンV", "modelno": "S7D", "cardno": "001/067", "pics": 4 },
+    {
+      "name": "デデンネGX",
+      "modelno": "SM12a",
+      "cardno": "175/173",
+      "pics": 1
+    },
+    { "name": "チルット", "modelno": "SD", "cardno": "078/127", "pics": 3 },
+    { "name": "チルタリス", "modelno": "S7D", "cardno": "040/067", "pics": 3 },
+    { "name": "ミュウ", "modelno": "SMP", "cardno": "342/SM-P", "pics": 1 },
+    {
+      "name": "ヤレユータン",
+      "modelno": "S4a",
+      "cardno": "147/190",
+      "pics": 1
+    },
+    {
+      "name": "マーシャドー",
+      "modelno": "SM12a",
+      "cardno": "064/173",
+      "pics": 1
+    },
+    { "name": "フーパ", "modelno": "SM12a", "cardno": "081/173", "pics": 1 },
+    {
+      "name": "クイックボール",
+      "modelno": "other",
+      "cardno": "39220",
+      "pics": 4
+    },
+    { "name": "ふうせん", "modelno": "other", "cardno": "39229", "pics": 1 },
+    {
+      "name": "リセットスタンプ",
+      "modelno": "other",
+      "cardno": "38902",
+      "pics": 2
+    },
+    {
+      "name": "ポケモンいれかえ",
+      "modelno": "other",
+      "cardno": "36957",
+      "pics": 2
+    },
+    {
+      "name": "レベルボール",
+      "modelno": "other",
+      "cardno": "39821",
+      "pics": 3
+    },
+    {
+      "name": "タフネスマント",
+      "modelno": "other",
+      "cardno": "38815",
+      "pics": 3
+    },
+    {
+      "name": "ともだちてちょう",
+      "modelno": "other",
+      "cardno": "36838",
+      "pics": 1
+    },
+    {
+      "name": "やまびこホーン",
+      "modelno": "other",
+      "cardno": "39331",
+      "pics": 2
+    },
+    {
+      "name": "たっぷりバケツ",
+      "modelno": "other",
+      "cardno": "39505",
+      "pics": 1
+    },
+    {
+      "name": "ボスの指令（サカキ）",
+      "modelno": "other",
+      "cardno": "38062",
+      "pics": 3
+    },
+    {
+      "name": "博士の研究（マグノリア博士）",
+      "modelno": "other",
+      "cardno": "37874",
+      "pics": 3
+    },
+    { "name": "マリィ", "modelno": "other", "cardno": "38930", "pics": 3 },
+    { "name": "メロン", "modelno": "other", "cardno": "39537", "pics": 2 },
+    { "name": "キバナ", "modelno": "other", "cardno": "39732", "pics": 1 },
+    {
+      "name": "マチスの作戦",
+      "modelno": "other",
+      "cardno": "38391",
+      "pics": 1
+    },
+    { "name": "頂への雪道", "modelno": "other", "cardno": "39430", "pics": 3 },
+    {
+      "name": "キャプチャーエネルギー",
+      "modelno": "other",
+      "cardno": "39243",
+      "pics": 3
+    },
+    {
+      "name": "基本水エネルギー",
+      "modelno": "other",
+      "cardno": "39582",
+      "pics": 7
+    }
+  ],
+  "deck_info": {
+    "deck_name": "スイクンV（チルタリス）",
+    "deck_exp": "スイクンVとチルタリスを組み合わせることで好きなサポートを手札に加え柔軟に戦えます。",
+    "main_pokemon": "suicune",
+    "key_pokemon1": "altaria",
+    "key_pokemon2": "hoopa-unbound",
+    "key_pokemon3": "dedenne",
+    "main_symbol": "water",
+    "main_card_no": "001/067",
+    "main_crad_model": "S7D"
+  }
+}

@@ -1,12 +1,14 @@
 package main
 
 import (
+	"encoding/json"
+	"fmt"
+	"io/ioutil"
+	"os"
 	"strconv"
 	"strings"
 	"time"
 
-	"github.com/gin-contrib/cors"
-	"github.com/gin-gonic/gin"
 	"github.com/go-rod/rod"
 )
 
@@ -17,30 +19,63 @@ type Pokecard struct {
 	Pics    int    `json:"pics"`
 }
 
-func main() {
-	r := gin.Default()
-	config := cors.DefaultConfig()
-	config.AllowOrigins = []string{"*"}
-	r.Use(cors.New(config))
-
-	r.GET("/", func(c *gin.Context) {
-		c.JSON(200, gin.H{
-			"message": "living2",
-		})
-	})
-	r.GET("/test",
-		sctest)
-
-	r.Run(":8090")
-
-	// sctest()
+type DeckInfo struct {
+	DeckName      string `json:"deck_name"`
+	DeckExp       string `json:"deck_exp"`
+	MainPokemon   string `json:"main_pokemon"`
+	KeyPokemon1   string `json:"key_pokemon1"`
+	KeyPokemon2   string `json:"key_pokemon2"`
+	KeyPokemon3   string `json:"key_pokemon3"`
+	MainSymbol    string `json:"main_symbol"`
+	MainCardNo    string `json:"main_card_no"`
+	MainCardModel string `json:"main_crad_model"`
 }
 
-func sctest(c *gin.Context) {
+type PostData struct {
+	CardList []Pokecard `json:"card_list"`
+	DeckInfo DeckInfo   `json:"deck_info"`
+}
+
+func main() {
+	url := "FV1FFV-KxIEoS-k5VdVf"
+
+	cardlist := getDeckList(url)
+
+	info := DeckInfo{
+		DeckName:      "ビクティニブラッキーミュウミュウ",
+		DeckExp:       "",
+		MainPokemon:   "victini",
+		KeyPokemon1:   "mewtwo",
+		KeyPokemon2:   "umbreon",
+		KeyPokemon3:   "vikavolt",
+		MainSymbol:    "fire",
+		MainCardNo:    "013/070",
+		MainCardModel: "S5R",
+	}
+
+	Postdata := PostData{
+		CardList: cardlist,
+		DeckInfo: info,
+	}
+
+	fmt.Println(Postdata)
+
+	json, err := json.Marshal(Postdata)
+	if err != nil {
+		fmt.Println(err)
+	}
+
+	os.Stdout.Write(json)
+
+	content := []byte(json)
+	ioutil.WriteFile("14.json", content, os.ModePerm)
+}
+
+func getDeckList(deckcode string) []Pokecard {
 	browser := rod.New().MustConnect()
 	defer browser.MustClose()
 
-	page := browser.MustPage("https://www.pokemon-card.com/deck/deck.html?deckID=kvvFfk-zYe5rz-kFFwVF").MustWaitLoad()
+	page := browser.MustPage("https://www.pokemon-card.com/deck/deck.html?deckID=" + deckcode).MustWaitLoad()
 	page.Timeout(5 * time.Second)
 
 	var all []Pokecard
@@ -105,5 +140,7 @@ func sctest(c *gin.Context) {
 		// fmt.Println(all)
 
 	}
-	c.JSON(200, all)
+
+	return all
+
 }

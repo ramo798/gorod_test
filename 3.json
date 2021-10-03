@@ -1,0 +1,144 @@
+{
+  "card_list": [
+    {
+      "name": "ミュウツー\u0026amp;ミュウGX",
+      "modelno": "SM12a",
+      "cardno": "052/173",
+      "pics": 2
+    },
+    {
+      "name": "ブラッキー\u0026amp;ダークライGX",
+      "modelno": "SMM",
+      "cardno": "010/031",
+      "pics": 2
+    },
+    {
+      "name": "メガヤミラミ\u0026amp;バンギラスGX",
+      "modelno": "SM11",
+      "cardno": "054/094",
+      "pics": 1
+    },
+    {
+      "name": "ゲッコウガ\u0026amp;ゾロアークGX",
+      "modelno": "SM9a",
+      "cardno": "025/055",
+      "pics": 1
+    },
+    {
+      "name": "マニューラGX",
+      "modelno": "SMM",
+      "cardno": "015/031",
+      "pics": 2
+    },
+    { "name": "ニューラ", "modelno": "S6K", "cardno": "011/070", "pics": 2 },
+    { "name": "ニューラ", "modelno": "SM12a", "cardno": "073/173", "pics": 1 },
+    {
+      "name": "シルヴァディGX",
+      "modelno": "SM11b",
+      "cardno": "041/049",
+      "pics": 2
+    },
+    {
+      "name": "タイプ：ヌル",
+      "modelno": "SM10b",
+      "cardno": "042/054",
+      "pics": 2
+    },
+    { "name": "ガラル", "modelno": "ファイヤーV", "cardno": "S5a", "pics": 1 },
+    { "name": "ガラル", "modelno": "ファイヤー", "cardno": "S7D", "pics": 1 },
+    { "name": "デデンネGX", "modelno": "SF", "cardno": "005/033", "pics": 1 },
+    { "name": "ガラル", "modelno": "サンダーV", "cardno": "S5a", "pics": 1 },
+    {
+      "name": "マーシャドー",
+      "modelno": "SM12a",
+      "cardno": "064/173",
+      "pics": 2
+    },
+    {
+      "name": "クイックボール",
+      "modelno": "other",
+      "cardno": "39220",
+      "pics": 4
+    },
+    {
+      "name": "タッグコール",
+      "modelno": "other",
+      "cardno": "37147",
+      "pics": 4
+    },
+    {
+      "name": "ポケモン通信",
+      "modelno": "other",
+      "cardno": "39227",
+      "pics": 3
+    },
+    {
+      "name": "ポケモンいれかえ",
+      "modelno": "other",
+      "cardno": "39226",
+      "pics": 2
+    },
+    { "name": "ふうせん", "modelno": "other", "cardno": "39229", "pics": 2 },
+    { "name": "隠密フード", "modelno": "other", "cardno": "36191", "pics": 1 },
+    {
+      "name": "げんきのハチマキ",
+      "modelno": "other",
+      "cardno": "38375",
+      "pics": 1
+    },
+    {
+      "name": "レッド\u0026amp;グリーン",
+      "modelno": "other",
+      "cardno": "37154",
+      "pics": 2
+    },
+    {
+      "name": "ナツメ＆ハチク",
+      "modelno": "other",
+      "cardno": "38632",
+      "pics": 2
+    },
+    {
+      "name": "シロナ\u0026amp;カトレア",
+      "modelno": "other",
+      "cardno": "37152",
+      "pics": 2
+    },
+    {
+      "name": "グズマ\u0026amp;ハラ",
+      "modelno": "other",
+      "cardno": "37151",
+      "pics": 1
+    },
+    {
+      "name": "ボスの指令（サカキ）",
+      "modelno": "other",
+      "cardno": "39232",
+      "pics": 3
+    },
+    { "name": "トキワの森", "modelno": "other", "cardno": "37369", "pics": 1 },
+    {
+      "name": "基本悪エネルギー",
+      "modelno": "other",
+      "cardno": "37748",
+      "pics": 9
+    },
+    {
+      "name": "オーロラエネルギー",
+      "modelno": "other",
+      "cardno": "38832",
+      "pics": 2
+    }
+  ],
+  "deck_info": {
+    "deck_name": "悪パーフェクション",
+    "deck_exp": "デッドムーンGXで流れをとって、有利にゲームを運ぶことを狙うデッキです。",
+    "main_pokemon": "mewtwo",
+    "key_pokemon1": "darkrai",
+    "key_pokemon2": "umbreon",
+    "key_pokemon3": "moltres-galar ",
+    "main_symbol": "dark",
+    "main_card_no": "029/094",
+    "main_crad_model": "SM11"
+  }
+}

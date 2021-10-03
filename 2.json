@@ -1,0 +1,130 @@
+{
+  "card_list": [
+    { "name": "スイクンV", "modelno": "S7D", "cardno": "001/067", "pics": 4 },
+    { "name": "ガラル", "modelno": "ファイヤーV", "cardno": "S5a", "pics": 2 },
+    { "name": "ガラル", "modelno": "ファイヤー", "cardno": "S7D", "pics": 1 },
+    { "name": "チルタリス", "modelno": "S7D", "cardno": "040/067", "pics": 2 },
+    { "name": "チルット", "modelno": "S7D", "cardno": "053/067", "pics": 2 },
+    { "name": "ミュウ", "modelno": "SM12a", "cardno": "055/173", "pics": 1 },
+    { "name": "ミミッキュ", "modelno": "S3", "cardno": "042/100", "pics": 1 },
+    { "name": "デデンネGX", "modelno": "SF", "cardno": "005/033", "pics": 1 },
+    {
+      "name": "ヤレユータン",
+      "modelno": "S4a",
+      "cardno": "147/190",
+      "pics": 1
+    },
+    {
+      "name": "クイックボール",
+      "modelno": "other",
+      "cardno": "39570",
+      "pics": 4
+    },
+    {
+      "name": "レベルボール",
+      "modelno": "other",
+      "cardno": "39193",
+      "pics": 2
+    },
+    {
+      "name": "タフネスマント",
+      "modelno": "other",
+      "cardno": "38815",
+      "pics": 3
+    },
+    {
+      "name": "エネルギーつけかえ",
+      "modelno": "other",
+      "cardno": "38357",
+      "pics": 3
+    },
+    {
+      "name": "あなぬけのヒモ",
+      "modelno": "other",
+      "cardno": "39725",
+      "pics": 2
+    },
+    { "name": "ふうせん", "modelno": "other", "cardno": "39229", "pics": 1 },
+    {
+      "name": "やまびこホーン",
+      "modelno": "other",
+      "cardno": "39331",
+      "pics": 2
+    },
+    {
+      "name": "ツールスクラッパー",
+      "modelno": "other",
+      "cardno": "39223",
+      "pics": 1
+    },
+    {
+      "name": "グレートキャッチャー",
+      "modelno": "other",
+      "cardno": "36956",
+      "pics": 1
+    },
+    {
+      "name": "リセットスタンプ",
+      "modelno": "other",
+      "cardno": "38902",
+      "pics": 1
+    },
+    {
+      "name": "博士の研究（アララギ博士）",
+      "modelno": "other",
+      "cardno": "39575",
+      "pics": 3
+    },
+    {
+      "name": "ボスの指令（フラダリ）",
+      "modelno": "other",
+      "cardno": "39577",
+      "pics": 3
+    },
+    { "name": "キバナ", "modelno": "other", "cardno": "39732", "pics": 1 },
+    { "name": "メロン", "modelno": "other", "cardno": "39428", "pics": 1 },
+    { "name": "マリィ", "modelno": "other", "cardno": "39578", "pics": 1 },
+    {
+      "name": "マオ\u0026amp;スイレン",
+      "modelno": "other",
+      "cardno": "37153",
+      "pics": 1
+    },
+    { "name": "トキワの森", "modelno": "other", "cardno": "37369", "pics": 2 },
+    {
+      "name": "基本水エネルギー",
+      "modelno": "other",
+      "cardno": "39659",
+      "pics": 4
+    },
+    {
+      "name": "ウォッシュ水エネルギー",
+      "modelno": "other",
+      "cardno": "39506",
+      "pics": 2
+    },
+    {
+      "name": "基本悪エネルギー",
+      "modelno": "other",
+      "cardno": "39558",
+      "pics": 4
+    },
+    {
+      "name": "キャプチャーエネルギー",
+      "modelno": "other",
+      "cardno": "39243",
+      "pics": 3
+    }
+  ],
+  "deck_info": {
+    "deck_name": "スイクンV（ガラルファイヤーV）",
+    "deck_exp": "スイクンVとガラルファイヤーVを使って速攻を仕掛けるデッキです。",
+    "main_pokemon": "suicune",
+    "key_pokemon1": "moltres-galar",
+    "key_pokemon2": "altaria",
+    "key_pokemon3": "mimikyu",
+    "main_symbol": "water",
+    "main_card_no": "001/067",
+    "main_crad_model": "S7D"
+  }
+}

@@ -1,0 +1,116 @@
+{
+  "card_list": [
+    {
+      "name": "ルカリオ\u0026amp;メルメタルGX",
+      "modelno": "SM9b",
+      "cardno": "029/054",
+      "pics": 2
+    },
+    { "name": "ザシアンV", "modelno": "S4a", "cardno": "137/190", "pics": 4 },
+    { "name": "ザマゼンタV", "modelno": "S4a", "cardno": "139/190", "pics": 2 },
+    {
+      "name": "リーリエのピッピ人形",
+      "modelno": "other",
+      "cardno": "37040",
+      "pics": 3
+    },
+    {
+      "name": "タッグコール",
+      "modelno": "other",
+      "cardno": "37147",
+      "pics": 4
+    },
+    {
+      "name": "メタルソーサー",
+      "modelno": "other",
+      "cardno": "39228",
+      "pics": 4
+    },
+    {
+      "name": "ポケモンいれかえ",
+      "modelno": "other",
+      "cardno": "39226",
+      "pics": 4
+    },
+    {
+      "name": "リセットスタンプ",
+      "modelno": "other",
+      "cardno": "38372",
+      "pics": 2
+    },
+    {
+      "name": "タフネスマント",
+      "modelno": "other",
+      "cardno": "38815",
+      "pics": 2
+    },
+    { "name": "隠密フード", "modelno": "other", "cardno": "36191", "pics": 1 },
+    { "name": "マリィ", "modelno": "other", "cardno": "39233", "pics": 4 },
+    {
+      "name": "エリカのおもてなし",
+      "modelno": "other",
+      "cardno": "38380",
+      "pics": 2
+    },
+    {
+      "name": "博士の研究（マグノリア博士）",
+      "modelno": "other",
+      "cardno": "39231",
+      "pics": 1
+    },
+    {
+      "name": "シロナ\u0026amp;カトレア",
+      "modelno": "other",
+      "cardno": "37152",
+      "pics": 2
+    },
+    {
+      "name": "グズマ\u0026amp;ハラ",
+      "modelno": "other",
+      "cardno": "37151",
+      "pics": 2
+    },
+    {
+      "name": "マオ\u0026amp;スイレン",
+      "modelno": "other",
+      "cardno": "37153",
+      "pics": 2
+    },
+    {
+      "name": "ボスの指令（サカキ）",
+      "modelno": "other",
+      "cardno": "39232",
+      "pics": 4
+    },
+    { "name": "結晶の洞窟", "modelno": "other", "cardno": "39735", "pics": 2 },
+    {
+      "name": "基本鋼エネルギー",
+      "modelno": "other",
+      "cardno": "37749",
+      "pics": 9
+    },
+    {
+      "name": "コーティング鋼エネルギー",
+      "modelno": "other",
+      "cardno": "38598",
+      "pics": 2
+    },
+    {
+      "name": "キャプチャーエネルギー",
+      "modelno": "other",
+      "cardno": "39243",
+      "pics": 2
+    }
+  ],
+  "deck_info": {
+    "deck_name": "ルカリオ＆メルメタルGX・ザマゼンタV",
+    "deck_exp": "",
+    "main_pokemon": "lucario",
+    "key_pokemon1": "melmetal",
+    "key_pokemon2": "zamazenta-crowned",
+    "key_pokemon3": "zacian-crowned",
+    "main_symbol": "steel",
+    "main_card_no": "083/173",
+    "main_crad_model": "SM12a"
+  }
+}

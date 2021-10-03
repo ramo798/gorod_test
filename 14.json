@@ -1,0 +1,139 @@
+{
+  "card_list": [
+    {
+      "name": "ビクティニVMAX",
+      "modelno": "S5R",
+      "cardno": "013/070",
+      "pics": 2
+    },
+    { "name": "ビクティニV", "modelno": "SA", "cardno": "003/023", "pics": 2 },
+    {
+      "name": "ブラッキーVMAX",
+      "modelno": "S6a",
+      "cardno": "048/069",
+      "pics": 2
+    },
+    { "name": "ブラッキーV", "modelno": "S6a", "cardno": "047/069", "pics": 2 },
+    {
+      "name": "ミュウツー\u0026amp;ミュウGX",
+      "modelno": "SM12a",
+      "cardno": "052/173",
+      "pics": 2
+    },
+    { "name": "ガラル", "modelno": "サンダーV", "cardno": "S5a", "pics": 2 },
+    { "name": "クワガノンV", "modelno": "S2a", "cardno": "025/070", "pics": 1 },
+    {
+      "name": "レシラム\u0026amp;リザードンGX",
+      "modelno": "SM12a",
+      "cardno": "016/173",
+      "pics": 1
+    },
+    {
+      "name": "ゲンガー\u0026amp;ミミッキュGX",
+      "modelno": "SM9",
+      "cardno": "038/095",
+      "pics": 1
+    },
+    {
+      "name": "ラフレシアGX",
+      "modelno": "SM11b",
+      "cardno": "003/049",
+      "pics": 1
+    },
+    {
+      "name": "マーシャドー",
+      "modelno": "SM12a",
+      "cardno": "064/173",
+      "pics": 1
+    },
+    { "name": "ミュウ", "modelno": "SM12a", "cardno": "055/173", "pics": 1 },
+    { "name": "デデンネGX", "modelno": "SF", "cardno": "005/033", "pics": 2 },
+    { "name": "クロバットV", "modelno": "SGI", "cardno": "007/022", "pics": 1 },
+    { "name": "ワタシラガV", "modelno": "S4a", "cardno": "016/190", "pics": 1 },
+    {
+      "name": "クイックボール",
+      "modelno": "other",
+      "cardno": "39220",
+      "pics": 4
+    },
+    {
+      "name": "プレシャスボール",
+      "modelno": "other",
+      "cardno": "37331",
+      "pics": 3
+    },
+    {
+      "name": "ポケモン通信",
+      "modelno": "other",
+      "cardno": "39227",
+      "pics": 3
+    },
+    {
+      "name": "あなぬけのヒモ",
+      "modelno": "other",
+      "cardno": "39725",
+      "pics": 2
+    },
+    { "name": "ふうせん", "modelno": "other", "cardno": "39229", "pics": 2 },
+    {
+      "name": "リセットスタンプ",
+      "modelno": "other",
+      "cardno": "38048",
+      "pics": 1
+    },
+    {
+      "name": "ツールスクラッパー",
+      "modelno": "other",
+      "cardno": "39223",
+      "pics": 1
+    },
+    { "name": "溶接工", "modelno": "other", "cardno": "39235", "pics": 4 },
+    {
+      "name": "博士の研究(マグノリア博士)",
+      "modelno": "other",
+      "cardno": "39825",
+      "pics": 2
+    },
+    {
+      "name": "ボスの指令（サカキ）",
+      "modelno": "other",
+      "cardno": "39232",
+      "pics": 1
+    },
+    {
+      "name": "巨大なカマド",
+      "modelno": "other",
+      "cardno": "37366",
+      "pics": 2
+    },
+    {
+      "name": "混沌のうねり",
+      "modelno": "other",
+      "cardno": "37155",
+      "pics": 1
+    },
+    {
+      "name": "基本炎エネルギー",
+      "modelno": "other",
+      "cardno": "39829",
+      "pics": 8
+    },
+    {
+      "name": "オーロラエネルギー",
+      "modelno": "other",
+      "cardno": "39803",
+      "pics": 4
+    }
+  ],
+  "deck_info": {
+    "deck_name": "ビクティニブラッキーミュウミュウ",
+    "deck_exp": "",
+    "main_pokemon": "victini",
+    "key_pokemon1": "mewtwo",
+    "key_pokemon2": "umbreon",
+    "key_pokemon3": "vikavolt",
+    "main_symbol": "fire",
+    "main_card_no": "013/070",
+    "main_crad_model": "S5R"
+  }
+}
